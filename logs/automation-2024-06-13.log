@@ -1,0 +1,590 @@
+12:03:41.113 [main] INFO  factory.BaseClass - Taking screenshot
+12:03:41.123 [main] INFO  factory.BaseClass - **************Validate the hospitals more then three of rating**************
+12:03:41.348 [main] INFO  factory.BaseClass - Taking screenshot
+12:03:41.349 [main] INFO  factory.BaseClass - **************Get the top city hospitals**************
+12:03:41.626 [main] INFO  factory.BaseClass - Taking screenshot
+12:03:41.627 [main] INFO  factory.BaseClass - **************Validate top city hospitals**************
+12:03:41.816 [main] INFO  factory.BaseClass - Taking screenshot
+12:03:55.935 [main] INFO  factory.BaseClass - Website is opened
+12:03:55.937 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:04:16.456 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:16.456 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:04:16.706 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:16.706 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:04:16.939 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:16.940 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:04:17.216 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:17.218 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:04:17.546 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:17.548 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:04:17.851 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:17.851 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:04:18.126 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:18.127 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+12:04:18.352 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:26.986 [main] INFO  factory.BaseClass - Website is opened
+12:04:26.987 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:04:33.989 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:33.990 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:04:34.396 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:34.396 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:04:34.823 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:34.824 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:04:35.266 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:35.268 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:04:35.788 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:35.789 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:04:36.244 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:36.244 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:04:36.665 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:36.665 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+12:04:36.961 [main] INFO  factory.BaseClass - Taking screenshot
+12:04:47.388 [main] INFO  factory.BaseClass - Website is opened
+12:04:47.389 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:05:12.057 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:12.058 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:05:12.326 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:12.327 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:05:12.564 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:12.566 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:05:12.852 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:12.852 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:05:13.172 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:13.173 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:05:13.471 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:13.472 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:05:13.813 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:13.814 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+12:05:14.109 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:23.368 [main] INFO  factory.BaseClass - Website is opened
+12:05:23.369 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:05:28.443 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:28.444 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:05:28.777 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:28.777 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:05:29.056 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:29.057 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:05:29.403 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:29.404 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:05:29.759 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:29.760 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:05:30.088 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:30.089 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:05:30.562 [main] INFO  factory.BaseClass - Taking screenshot
+12:05:30.563 [main] INFO  factory.BaseClass - **************Login button should be enabeld**************
+12:06:21.046 [main] INFO  factory.BaseClass - Taking screenshot
+12:17:05.479 [main] INFO  factory.BaseClass - Website is opened
+12:17:05.535 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+12:17:05.753 [main] INFO  factory.BaseClass - Taking screenshot
+12:17:05.754 [main] INFO  factory.BaseClass - ***************Validate the Practo Logo is present*************
+12:17:05.754 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+12:17:06.623 [main] INFO  factory.BaseClass - Taking screenshot
+12:17:06.624 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+12:17:06.785 [main] INFO  factory.BaseClass - Taking screenshot
+12:17:06.786 [main] INFO  factory.BaseClass - ***************Validate the Login button is present*************
+12:17:06.787 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+12:17:07.056 [main] INFO  factory.BaseClass - Taking screenshot
+12:17:07.057 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+12:17:07.245 [main] INFO  factory.BaseClass - Taking screenshot
+12:17:07.246 [main] INFO  factory.BaseClass - **************Validate the download is present**************
+12:17:07.246 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+12:17:07.524 [main] INFO  factory.BaseClass - Taking screenshot
+12:17:45.887 [main] INFO  factory.BaseClass - Website is opened
+12:17:45.912 [main] INFO  factory.BaseClass - ***************Navigate to Find Doctors page*************
+12:18:17.534 [main] INFO  factory.BaseClass - Taking screenshot
+12:18:17.534 [main] INFO  factory.BaseClass - ***************Send the value to searchbox*************
+12:18:24.272 [main] INFO  factory.BaseClass - Taking screenshot
+12:18:24.272 [main] INFO  factory.BaseClass - ***************Validate the Doctors Name*************
+12:18:26.994 [main] INFO  factory.BaseClass - Taking screenshot
+12:18:26.995 [main] INFO  factory.BaseClass - ***************Valiadate the Book Free option*************
+12:18:27.397 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:06.101 [main] INFO  factory.BaseClass - Website is opened
+12:19:06.129 [main] INFO  factory.BaseClass - ***************Navigate to video Consult page*************
+12:19:07.439 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:07.439 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+12:19:07.733 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:07.734 [main] INFO  factory.BaseClass - ***************Validate Consult Now button is present*************
+12:19:07.734 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+12:19:08.048 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:08.049 [main] INFO  factory.BaseClass - ***************Get all specialities datas*************
+12:19:08.971 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:08.972 [main] INFO  factory.BaseClass - ***************Validate specialities availability*************
+12:19:09.252 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:09.252 [main] INFO  factory.BaseClass - ***************Get all Common Health Concern datas and price*************
+12:19:09.624 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:09.625 [main] INFO  factory.BaseClass - ***************Validate CommonHealthConcern availability*************
+12:19:09.909 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:09.910 [main] INFO  factory.BaseClass - ***************Get all Offer details*************
+12:19:10.159 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:10.160 [main] INFO  factory.BaseClass - ***************Validate Consult Offers availability*************
+12:19:10.449 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:16.948 [main] INFO  factory.BaseClass - Website is opened
+12:19:16.975 [main] INFO  factory.BaseClass - ***************Navigate to Surgeries Page*************
+12:19:18.967 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:18.968 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+12:19:19.346 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:19.347 [main] INFO  factory.BaseClass - ***************Validate the Phone number*************
+12:19:19.347 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+12:19:19.844 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:19.845 [main] INFO  factory.BaseClass - ***************Get Popular Surgeries data*************
+12:19:22.849 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:22.850 [main] INFO  factory.BaseClass - **************Validate the Popular Surgeries**************
+12:19:23.112 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:23.113 [main] INFO  factory.BaseClass - **************Get Our Departments data**************
+12:19:23.406 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:23.406 [main] INFO  factory.BaseClass - **************Valiadate the Our Departments**************
+12:19:23.679 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:23.680 [main] INFO  factory.BaseClass - **************Get the PractoCare Benifits Data**************
+12:19:23.921 [main] INFO  factory.BaseClass - Taking screenshot
+12:19:23.922 [main] INFO  factory.BaseClass - **************Validate PractoCare Data availability**************
+12:19:24.187 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:01.789 [main] INFO  factory.BaseClass - Website is opened
+12:20:01.821 [main] INFO  factory.BaseClass - **************Select Bangalore city and Search Hospitals**************
+12:20:11.198 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:11.199 [main] INFO  factory.BaseClass - **************Validate Bangalore city hospitals are displayed**************
+12:20:11.405 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:11.406 [main] INFO  factory.BaseClass - **************Locate all day opened hospitals element**************
+12:20:16.566 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:16.567 [main] INFO  factory.BaseClass - **************Validate all day hospitals opened**************
+12:20:16.736 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:16.737 [main] INFO  factory.BaseClass - **************Get the rating of more than three hospitals**************
+12:20:19.239 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:19.240 [main] INFO  factory.BaseClass - **************Validate the hospitals more then three of rating**************
+12:20:19.410 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:19.411 [main] INFO  factory.BaseClass - **************Get the top city hospitals**************
+12:20:19.637 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:19.638 [main] INFO  factory.BaseClass - **************Validate top city hospitals**************
+12:20:19.789 [main] INFO  factory.BaseClass - Taking screenshot
+12:20:57.419 [main] INFO  factory.BaseClass - Website is opened
+12:20:57.420 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:21:29.545 [main] INFO  factory.BaseClass - Taking screenshot
+12:21:29.546 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:21:29.807 [main] INFO  factory.BaseClass - Taking screenshot
+12:21:29.807 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:21:30.036 [main] INFO  factory.BaseClass - Taking screenshot
+12:21:30.037 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:21:30.297 [main] INFO  factory.BaseClass - Taking screenshot
+12:21:30.297 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:21:30.575 [main] INFO  factory.BaseClass - Taking screenshot
+12:21:30.576 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:21:30.854 [main] INFO  factory.BaseClass - Taking screenshot
+12:21:30.854 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:21:31.124 [main] INFO  factory.BaseClass - Taking screenshot
+12:21:31.125 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+12:21:31.350 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:08.681 [main] INFO  factory.BaseClass - Website is opened
+12:22:08.682 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:22:11.998 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:11.999 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:22:12.271 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:12.272 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:22:12.497 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:12.498 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:22:12.769 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:12.769 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:22:13.042 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:13.042 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:22:13.319 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:13.319 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:22:13.629 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:13.630 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+12:22:13.872 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:20.625 [main] INFO  factory.BaseClass - Website is opened
+12:22:20.626 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:22:53.364 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:53.365 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:22:53.627 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:53.628 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:22:53.868 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:53.868 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:22:54.126 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:54.126 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:22:54.415 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:54.416 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:22:54.685 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:54.685 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:22:54.953 [main] INFO  factory.BaseClass - Taking screenshot
+12:22:54.953 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+12:22:55.168 [main] INFO  factory.BaseClass - Taking screenshot
+12:23:32.241 [main] INFO  factory.BaseClass - Website is opened
+12:23:32.241 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+12:24:05.799 [main] INFO  factory.BaseClass - Taking screenshot
+12:24:05.799 [main] INFO  factory.BaseClass - **************Enter the name**************
+12:24:06.078 [main] INFO  factory.BaseClass - Taking screenshot
+12:24:06.078 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+12:24:06.343 [main] INFO  factory.BaseClass - Taking screenshot
+12:24:06.344 [main] INFO  factory.BaseClass - **************selects the organization size**************
+12:24:06.659 [main] INFO  factory.BaseClass - Taking screenshot
+12:24:06.659 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+12:24:06.975 [main] INFO  factory.BaseClass - Taking screenshot
+12:24:06.975 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+12:24:07.255 [main] INFO  factory.BaseClass - Taking screenshot
+12:24:07.256 [main] INFO  factory.BaseClass - **************user enter the email id **************
+12:24:07.559 [main] INFO  factory.BaseClass - Taking screenshot
+12:24:07.560 [main] INFO  factory.BaseClass - **************Login button should be enabeld**************
+12:24:57.878 [main] INFO  factory.BaseClass - Taking screenshot
+21:35:59.673 [main] INFO  factory.BaseClass - Website is opened
+21:35:59.771 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+21:36:00.063 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:00.067 [main] INFO  factory.BaseClass - ***************Validate the Practo Logo is present*************
+21:36:00.067 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+21:36:01.732 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:01.733 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+21:36:02.017 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:02.019 [main] INFO  factory.BaseClass - ***************Validate the Login button is present*************
+21:36:02.019 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+21:36:02.495 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:02.496 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+21:36:02.816 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:02.816 [main] INFO  factory.BaseClass - **************Validate the download is present**************
+21:36:02.817 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+21:36:03.312 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:12.091 [main] INFO  factory.BaseClass - Website is opened
+21:36:12.163 [main] INFO  factory.BaseClass - ***************Navigate to Find Doctors page*************
+21:36:14.052 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:14.053 [main] INFO  factory.BaseClass - ***************Send the value to searchbox*************
+21:36:18.915 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:18.916 [main] INFO  factory.BaseClass - ***************Validate the Doctors Name*************
+21:36:23.355 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:23.358 [main] INFO  factory.BaseClass - ***************Valiadate the Book Free option*************
+21:36:23.826 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:33.950 [main] INFO  factory.BaseClass - Website is opened
+21:36:33.990 [main] INFO  factory.BaseClass - ***************Navigate to video Consult page*************
+21:36:35.623 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:35.625 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+21:36:36.036 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:36.037 [main] INFO  factory.BaseClass - ***************Validate Consult Now button is present*************
+21:36:36.037 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+21:36:36.651 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:36.652 [main] INFO  factory.BaseClass - ***************Get all specialities datas*************
+21:36:37.999 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:38.000 [main] INFO  factory.BaseClass - ***************Validate specialities availability*************
+21:36:38.402 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:38.402 [main] INFO  factory.BaseClass - ***************Get all Common Health Concern datas and price*************
+21:36:38.898 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:38.899 [main] INFO  factory.BaseClass - ***************Validate CommonHealthConcern availability*************
+21:36:39.230 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:39.231 [main] INFO  factory.BaseClass - ***************Get all Offer details*************
+21:36:39.515 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:39.516 [main] INFO  factory.BaseClass - ***************Validate Consult Offers availability*************
+21:36:39.867 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:48.947 [main] INFO  factory.BaseClass - Website is opened
+21:36:48.972 [main] INFO  factory.BaseClass - ***************Navigate to Surgeries Page*************
+21:36:51.175 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:51.177 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+21:36:51.757 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:51.759 [main] INFO  factory.BaseClass - ***************Validate the Phone number*************
+21:36:51.759 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+21:36:52.397 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:52.398 [main] INFO  factory.BaseClass - ***************Get Popular Surgeries data*************
+21:36:56.025 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:56.026 [main] INFO  factory.BaseClass - **************Validate the Popular Surgeries**************
+21:36:56.454 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:56.457 [main] INFO  factory.BaseClass - **************Get Our Departments data**************
+21:36:56.930 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:56.931 [main] INFO  factory.BaseClass - **************Valiadate the Our Departments**************
+21:36:57.354 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:57.360 [main] INFO  factory.BaseClass - **************Get the PractoCare Benifits Data**************
+21:36:57.725 [main] INFO  factory.BaseClass - Taking screenshot
+21:36:57.726 [main] INFO  factory.BaseClass - **************Validate PractoCare Data availability**************
+21:36:58.117 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:08.416 [main] INFO  factory.BaseClass - Website is opened
+21:37:08.451 [main] INFO  factory.BaseClass - **************Select Bangalore city and Search Hospitals**************
+21:37:18.104 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:18.105 [main] INFO  factory.BaseClass - **************Validate Bangalore city hospitals are displayed**************
+21:37:18.435 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:18.436 [main] INFO  factory.BaseClass - **************Locate all day opened hospitals element**************
+21:37:24.134 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:24.134 [main] INFO  factory.BaseClass - **************Validate all day hospitals opened**************
+21:37:24.364 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:24.365 [main] INFO  factory.BaseClass - **************Get the rating of more than three hospitals**************
+21:37:27.397 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:27.398 [main] INFO  factory.BaseClass - **************Validate the hospitals more then three of rating**************
+21:37:27.602 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:27.603 [main] INFO  factory.BaseClass - **************Get the top city hospitals**************
+21:37:27.824 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:27.825 [main] INFO  factory.BaseClass - **************Validate top city hospitals**************
+21:37:28.009 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:37.849 [main] INFO  factory.BaseClass - Website is opened
+21:37:37.851 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:37:41.030 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:41.031 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:37:41.545 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:41.546 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:37:41.909 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:41.909 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:37:42.249 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:42.251 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:37:42.601 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:42.602 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:37:42.920 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:42.920 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:37:43.225 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:43.227 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+21:37:43.468 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:52.513 [main] INFO  factory.BaseClass - Website is opened
+21:37:52.515 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:37:55.354 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:55.355 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:37:55.784 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:55.785 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:37:56.094 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:56.095 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:37:56.478 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:56.479 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:37:56.844 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:56.844 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:37:57.183 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:57.184 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:37:57.552 [main] INFO  factory.BaseClass - Taking screenshot
+21:37:57.552 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+21:37:57.836 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:07.003 [main] INFO  factory.BaseClass - Website is opened
+21:38:07.005 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:38:11.204 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:11.205 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:38:11.500 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:11.501 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:38:11.824 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:11.825 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:38:12.155 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:12.156 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:38:12.604 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:12.605 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:38:13.042 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:13.043 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:38:13.491 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:13.492 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+21:38:13.882 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:24.436 [main] INFO  factory.BaseClass - Website is opened
+21:38:24.438 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:38:27.639 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:27.640 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:38:28.228 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:28.229 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:38:28.626 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:28.627 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:38:29.015 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:29.015 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:38:29.449 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:29.449 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:38:29.981 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:29.981 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:38:30.398 [main] INFO  factory.BaseClass - Taking screenshot
+21:38:30.399 [main] INFO  factory.BaseClass - **************Login button should be enabeld**************
+21:39:20.707 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:02.725 [main] INFO  factory.BaseClass - Website is opened
+21:48:02.774 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+21:48:03.115 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:03.118 [main] INFO  factory.BaseClass - ***************Validate the Practo Logo is present*************
+21:48:03.118 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+21:48:04.692 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:04.694 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+21:48:04.968 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:04.971 [main] INFO  factory.BaseClass - ***************Validate the Login button is present*************
+21:48:04.971 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+21:48:05.432 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:05.433 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+21:48:05.702 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:05.704 [main] INFO  factory.BaseClass - **************Validate the download is present**************
+21:48:05.704 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+21:48:06.167 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:16.958 [main] INFO  factory.BaseClass - Website is opened
+21:48:16.995 [main] INFO  factory.BaseClass - ***************Navigate to Find Doctors page*************
+21:48:19.291 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:19.293 [main] INFO  factory.BaseClass - ***************Send the value to searchbox*************
+21:48:24.715 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:24.716 [main] INFO  factory.BaseClass - ***************Validate the Doctors Name*************
+21:48:28.216 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:28.218 [main] INFO  factory.BaseClass - ***************Valiadate the Book Free option*************
+21:48:28.639 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:40.293 [main] INFO  factory.BaseClass - Website is opened
+21:48:40.329 [main] INFO  factory.BaseClass - ***************Navigate to video Consult page*************
+21:48:42.439 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:42.441 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+21:48:42.772 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:42.773 [main] INFO  factory.BaseClass - ***************Validate Consult Now button is present*************
+21:48:42.773 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+21:48:43.203 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:43.204 [main] INFO  factory.BaseClass - ***************Get all specialities datas*************
+21:48:44.704 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:44.705 [main] INFO  factory.BaseClass - ***************Validate specialities availability*************
+21:48:45.111 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:45.111 [main] INFO  factory.BaseClass - ***************Get all Common Health Concern datas and price*************
+21:48:45.551 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:45.552 [main] INFO  factory.BaseClass - ***************Validate CommonHealthConcern availability*************
+21:48:45.894 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:45.894 [main] INFO  factory.BaseClass - ***************Get all Offer details*************
+21:48:46.176 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:46.176 [main] INFO  factory.BaseClass - ***************Validate Consult Offers availability*************
+21:48:46.526 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:56.929 [main] INFO  factory.BaseClass - Website is opened
+21:48:56.934 [main] INFO  factory.BaseClass - ***************Navigate to Surgeries Page*************
+21:48:58.459 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:58.460 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+21:48:58.870 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:58.871 [main] INFO  factory.BaseClass - ***************Validate the Phone number*************
+21:48:58.871 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+21:48:59.481 [main] INFO  factory.BaseClass - Taking screenshot
+21:48:59.482 [main] INFO  factory.BaseClass - ***************Get Popular Surgeries data*************
+21:49:02.333 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:02.335 [main] INFO  factory.BaseClass - **************Validate the Popular Surgeries**************
+21:49:02.687 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:02.688 [main] INFO  factory.BaseClass - **************Get Our Departments data**************
+21:49:03.037 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:03.037 [main] INFO  factory.BaseClass - **************Valiadate the Our Departments**************
+21:49:03.306 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:03.307 [main] INFO  factory.BaseClass - **************Get the PractoCare Benifits Data**************
+21:49:03.558 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:03.559 [main] INFO  factory.BaseClass - **************Validate PractoCare Data availability**************
+21:49:03.826 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:23.570 [main] INFO  factory.BaseClass - Website is opened
+21:49:23.591 [main] INFO  factory.BaseClass - **************Select Bangalore city and Search Hospitals**************
+21:49:34.122 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:34.123 [main] INFO  factory.BaseClass - **************Validate Bangalore city hospitals are displayed**************
+21:49:34.332 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:34.332 [main] INFO  factory.BaseClass - **************Locate all day opened hospitals element**************
+21:49:39.544 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:39.544 [main] INFO  factory.BaseClass - **************Validate all day hospitals opened**************
+21:49:39.736 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:39.737 [main] INFO  factory.BaseClass - **************Get the rating of more than three hospitals**************
+21:49:42.355 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:42.356 [main] INFO  factory.BaseClass - **************Validate the hospitals more then three of rating**************
+21:49:42.523 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:42.524 [main] INFO  factory.BaseClass - **************Get the top city hospitals**************
+21:49:42.717 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:42.718 [main] INFO  factory.BaseClass - **************Validate top city hospitals**************
+21:49:42.850 [main] INFO  factory.BaseClass - Taking screenshot
+21:49:59.885 [main] INFO  factory.BaseClass - Website is opened
+21:49:59.885 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:50:03.640 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:03.640 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:50:04.020 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:04.020 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:50:04.331 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:04.332 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:50:04.755 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:04.755 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:50:05.134 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:05.135 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:50:05.525 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:05.526 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:50:05.918 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:05.920 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+21:50:06.249 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:20.134 [main] INFO  factory.BaseClass - Website is opened
+21:50:20.134 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:50:27.311 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:27.311 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:50:27.561 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:27.561 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:50:27.836 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:27.837 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:50:28.124 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:28.125 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:50:28.644 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:28.645 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:50:29.095 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:29.096 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:50:29.506 [main] INFO  factory.BaseClass - Taking screenshot
+21:50:29.507 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+21:50:29.775 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:03.717 [main] INFO  factory.BaseClass - Website is opened
+21:51:03.717 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:51:28.884 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:28.885 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:51:29.227 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:29.228 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:51:29.469 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:29.469 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:51:29.739 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:29.739 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:51:30.039 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:30.039 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:51:30.330 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:30.331 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:51:30.629 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:30.629 [main] INFO  factory.BaseClass - **************Login button should be Disabeld**************
+21:51:30.873 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:46.906 [main] INFO  factory.BaseClass - Website is opened
+21:51:46.908 [main] INFO  factory.BaseClass - **************Click on Corporate Wellness Form**************
+21:51:51.878 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:51.879 [main] INFO  factory.BaseClass - **************Enter the name**************
+21:51:52.157 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:52.158 [main] INFO  factory.BaseClass - **************Enter the Organization name**************
+21:51:52.405 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:52.406 [main] INFO  factory.BaseClass - **************selects the organization size**************
+21:51:52.673 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:52.674 [main] INFO  factory.BaseClass - **************select the Interested in option**************
+21:51:52.969 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:52.969 [main] INFO  factory.BaseClass - **************user enter the contact number**************
+21:51:53.262 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:53.262 [main] INFO  factory.BaseClass - **************user enter the email id **************
+21:51:53.627 [main] INFO  factory.BaseClass - Taking screenshot
+21:51:53.628 [main] INFO  factory.BaseClass - **************Login button should be enabeld**************
+21:51:58.965 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:23.022 [main] INFO  factory.BaseClass - Website is opened
+21:57:23.086 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+21:57:23.272 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:23.274 [main] INFO  factory.BaseClass - ***************Validate the Practo Logo is present*************
+21:57:23.274 [main] INFO  factory.BaseClass - ***************Locate the Practo Logo Element*************
+21:57:24.261 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:24.262 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+21:57:24.438 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:24.439 [main] INFO  factory.BaseClass - ***************Validate the Login button is present*************
+21:57:24.439 [main] INFO  factory.BaseClass - ***************Locate the Login button Element*************
+21:57:24.718 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:24.719 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+21:57:24.903 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:24.903 [main] INFO  factory.BaseClass - **************Validate the download is present**************
+21:57:24.903 [main] INFO  factory.BaseClass - ***************Locate the Download Element*************
+21:57:25.186 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:33.177 [main] INFO  factory.BaseClass - Website is opened
+21:57:33.205 [main] INFO  factory.BaseClass - ***************Navigate to Find Doctors page*************
+21:57:35.177 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:35.178 [main] INFO  factory.BaseClass - ***************Send the value to searchbox*************
+21:57:40.361 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:40.362 [main] INFO  factory.BaseClass - ***************Validate the Doctors Name*************
+21:57:42.184 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:42.185 [main] INFO  factory.BaseClass - ***************Valiadate the Book Free option*************
+21:57:42.444 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:50.744 [main] INFO  factory.BaseClass - Website is opened
+21:57:50.769 [main] INFO  factory.BaseClass - ***************Navigate to video Consult page*************
+21:57:52.575 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:52.575 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+21:57:52.777 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:52.778 [main] INFO  factory.BaseClass - ***************Validate Consult Now button is present*************
+21:57:52.778 [main] INFO  factory.BaseClass - ***************Locate the video consult element*************
+21:57:53.017 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:53.017 [main] INFO  factory.BaseClass - ***************Get all specialities datas*************
+21:57:53.921 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:53.921 [main] INFO  factory.BaseClass - ***************Validate specialities availability*************
+21:57:54.164 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:54.165 [main] INFO  factory.BaseClass - ***************Get all Common Health Concern datas and price*************
+21:57:54.487 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:54.487 [main] INFO  factory.BaseClass - ***************Validate CommonHealthConcern availability*************
+21:57:54.752 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:54.752 [main] INFO  factory.BaseClass - ***************Get all Offer details*************
+21:57:54.980 [main] INFO  factory.BaseClass - Taking screenshot
+21:57:54.980 [main] INFO  factory.BaseClass - ***************Validate Consult Offers availability*************
+21:57:55.214 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:03.727 [main] INFO  factory.BaseClass - Website is opened
+21:58:03.747 [main] INFO  factory.BaseClass - ***************Navigate to Surgeries Page*************
+21:58:05.196 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:05.196 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+21:58:05.497 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:05.497 [main] INFO  factory.BaseClass - ***************Validate the Phone number*************
+21:58:05.497 [main] INFO  factory.BaseClass - ***************Get PractoCare Phone number*************
+21:58:05.843 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:05.844 [main] INFO  factory.BaseClass - ***************Get Popular Surgeries data*************
+21:58:07.666 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:07.667 [main] INFO  factory.BaseClass - **************Validate the Popular Surgeries**************
+21:58:07.869 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:07.870 [main] INFO  factory.BaseClass - **************Get Our Departments data**************
+21:58:08.105 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:08.106 [main] INFO  factory.BaseClass - **************Valiadate the Our Departments**************
+21:58:08.345 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:08.345 [main] INFO  factory.BaseClass - **************Get the PractoCare Benifits Data**************
+21:58:08.556 [main] INFO  factory.BaseClass - Taking screenshot
+21:58:08.556 [main] INFO  factory.BaseClass - **************Validate PractoCare Data availability**************
+21:58:08.779 [main] INFO  factory.BaseClass - Taking screenshot
