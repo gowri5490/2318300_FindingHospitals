@@ -46,11 +46,13 @@ public class FindDoctorsElements extends BasePage{
 	//Actions for Find doctors functionality
 	public void findDocPage()
 	{
+		wait.until(ExpectedConditions.visibilityOf(findDoc_element));
 		findDoc_element.click();
 	}
 	//Actions for Find Doctors page
 	public void findDoctor(String spec) throws InterruptedException
 	{
+		wait.until(ExpectedConditions.visibilityOf(search_speciality));
 		search_speciality.sendKeys(spec);//search specialist doctor in Dentist
 		Thread.sleep(3000);
 		WebElement r_srch=wait.until(ExpectedConditions.visibilityOf(recent_search));
@@ -62,18 +64,21 @@ public class FindDoctorsElements extends BasePage{
 	//Actions for get the doctors name
 	public List<WebElement> doctersName()
 	{
+		wait.until(ExpectedConditions.visibilityOfAllElements(doctors_name));
 		return doctors_name;
 	}
 	
 	//Actions for get the doctors occupations
 	public List<WebElement> occupations()
 	{
+		wait.until(ExpectedConditions.visibilityOfAllElements(occupation_type));
 		return occupation_type;
 	}
 	
 	//Actions for get the elements of book free
 	public List<WebElement> bookFree()
 	{
+		wait.until(ExpectedConditions.visibilityOfAllElements(bookfree_buttons));
 		return bookfree_buttons;
 	}
 	

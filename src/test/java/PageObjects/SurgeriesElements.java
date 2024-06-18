@@ -1,11 +1,14 @@
 package PageObjects;
 
+import java.time.Duration;
 import java.util.List;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class SurgeriesElements extends BasePage{
 	
@@ -16,6 +19,9 @@ public class SurgeriesElements extends BasePage{
 	}
 	//Declaration part of JavascriptExecutor
 	JavascriptExecutor js=(JavascriptExecutor)driver;
+	
+	//Declaration part of Explicit wait
+	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));
 	
 	//Locators for Surgeries Function elements
 	@FindBy(xpath="//div[text()='Surgeries']")
@@ -37,12 +43,14 @@ public class SurgeriesElements extends BasePage{
 	//click action for surgeries functionality
 	public void surgeriesAction()
 	{
+		wait.until(ExpectedConditions.visibilityOf(surgeries_element));
 		surgeries_element.click();
 	}
 	
 	//this method to get PractoCare number
 	public String practoCare()
 	{
+		wait.until(ExpectedConditions.visibilityOf(care_no));
 		return care_no.getText();
 	}
 	
@@ -50,18 +58,21 @@ public class SurgeriesElements extends BasePage{
 	public List<WebElement> popularSurgeries()
 	{
 		js.executeScript("window.scrollBy(0,600);","");
+		wait.until(ExpectedConditions.visibilityOfAllElements(surgeries_list));
 		return surgeries_list;
 	}
 	
 	//this method for get the departments WebElements
 	public List<WebElement> ourDepartments()
 	{
+		wait.until(ExpectedConditions.visibilityOfAllElements(departments));
 		return departments;
 	}
 	
 	//this method for get the PractoCare benefits WebElements 
 	public List<WebElement> practoCareBenifits()
 	{
+		wait.until(ExpectedConditions.visibilityOfAllElements(benifits_element));
 		return benifits_element;
 	}
 	

@@ -36,13 +36,11 @@ public class Hooks {
 	@AfterStep
 	   public void addScreenshot(Scenario scenario) {
 	       
-	       	
 	       	TakesScreenshot ts=(TakesScreenshot) driver;
 	       	byte[] screenshot=ts.getScreenshotAs(OutputType.BYTES);
 	       	scenario.attach(screenshot, "image/png",scenario.getName());
 	       	BaseClass.getLogger().info("Taking screenshot"); 	
-	       	            
-	     
+	       	         
 	   }
 		
 	@After 

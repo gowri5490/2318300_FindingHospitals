@@ -16,7 +16,7 @@ import io.cucumber.junit.CucumberOptions;
 //					features= {".//Features/TS_004_SurgeriesPage.feature"},
 //					features= {".//Features/TS__005_SearchPage.feature"},
 //					features= {".//Features/TS_006_CorporateWellnessForm.feature"},
-//					features= {"@target/rerun.txt"},
+				//features= {"@target/rerun.txt"},
 				
 					glue="stepDefinitions",
 					plugin= {"pretty", "html:reports/myreport.html", 

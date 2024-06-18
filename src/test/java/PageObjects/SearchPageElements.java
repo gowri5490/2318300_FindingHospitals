@@ -83,6 +83,7 @@ public class SearchPageElements extends BasePage{
 		js.executeScript("window.scrollBy(0,1600)", "");//scroll the page till this pixel value
 		Thread.sleep(4000);
 		
+		wait.until(ExpectedConditions.visibilityOfAllElements(hospitalsTimeDetails));
 		int hsptl_size=hospitalsTimeDetails.size();
 		List<Integer> hsptls_index=new ArrayList<>();
 		
@@ -99,21 +100,21 @@ public class SearchPageElements extends BasePage{
 	//this method for get hospitals name
 	public List<WebElement> hospitalName()
 	{
-		List<WebElement> hsptl_ttles=wait.until(ExpectedConditions.visibilityOfAllElements(hsptl_ttle));
-		return hsptl_ttles;
+		wait.until(ExpectedConditions.visibilityOfAllElements(hsptl_ttle));
+		return hsptl_ttle;
 	}
 	//this method for get the rating details 
 	public List<Integer> ratingDetails()
 	{
 		
-		List<WebElement> ratingDetails_wait=wait.until(ExpectedConditions.visibilityOfAllElements(ratingDetails));
+		wait.until(ExpectedConditions.visibilityOfAllElements(ratingDetails));
 		
-		int rating_size=ratingDetails_wait.size();
+		int rating_size=ratingDetails.size();
 		List<Integer> rating_index=new ArrayList<>();
 		
 		for(int i=0;i<rating_size;i++)
 		{
-			Double rating_value=Double.parseDouble(ratingDetails_wait.get(i).getText());
+			Double rating_value=Double.parseDouble(ratingDetails.get(i).getText());
 			if(rating_value>3.5)
 			{
 				rating_index.add(i);
@@ -125,6 +126,7 @@ public class SearchPageElements extends BasePage{
 	//this method for get top cities name
 	public List<WebElement> topCities()
 	{
+		wait.until(ExpectedConditions.visibilityOfAllElements(top_cities));
 		return top_cities;
 	}
 

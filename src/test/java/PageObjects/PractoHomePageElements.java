@@ -98,40 +98,46 @@ public class PractoHomePageElements extends BasePage{
 	//Action for user name 
 	public void user_name(String Name)
 	{
+		wait.until(ExpectedConditions.visibilityOf(user_name));
 		user_name.sendKeys(Name);
 	}
 	//Action for organization name
 	public void orga_Name(String org_Name)
 	{
+		wait.until(ExpectedConditions.visibilityOf(organization_name));
 		organization_name.sendKeys(org_Name);
 	}
 	//Action for phone number
 	public void phone_no(String pno)
 	{
+		wait.until(ExpectedConditions.visibilityOf(contact_no));
 		contact_no.sendKeys(pno);
 	}
 	//this method for mail id
 	public void email_id(String email)
 	{
+		wait.until(ExpectedConditions.visibilityOf(official_emailId));
 		official_emailId.sendKeys(email);
 	}
 	//this method for organization size
 	public void orga_size(String org_size)
 	{
+		wait.until(ExpectedConditions.visibilityOf(organization_size));
 		Select orgs_size=new Select(organization_size);
 		orgs_size.selectByVisibleText(org_size);
 	}
 	//this method for select interest
 	public void user_Interest(String interest)
 	{
+		wait.until(ExpectedConditions.visibilityOf(InterestedIn));
 		Select sl_interest=new Select(InterestedIn);
 		sl_interest.selectByVisibleText(interest);
 	}
 	//this method for submit the form
 	public WebElement submit_element()
 	{
-		WebElement submit_button_wait=wait.until(ExpectedConditions.visibilityOf(submit_button));
-		return submit_button_wait;
+		wait.until(ExpectedConditions.visibilityOf(submit_button));
+		return submit_button;
 	}
 	//perform the action
 	public void submitAction()
@@ -141,8 +147,8 @@ public class PractoHomePageElements extends BasePage{
 	//this method for confirm message element
 	public String confirmMessage()
 	{
-		WebElement confirm_msg=wait.until(ExpectedConditions.visibilityOf(txt_confirm));
-		return confirm_msg.getText();
+		wait.until(ExpectedConditions.visibilityOf(txt_confirm));
+		return txt_confirm.getText();
 	}
 	
 }
