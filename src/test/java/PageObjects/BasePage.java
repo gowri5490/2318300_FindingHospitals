@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 public class BasePage {
 	public static WebDriver driver;
 	
-	//Use this method to get the current driver value
+	//Use this constructor to get the current driver value
 	public BasePage(WebDriver driver)
 	{
 		BasePage.driver=driver;

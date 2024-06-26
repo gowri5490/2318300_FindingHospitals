@@ -52,7 +52,7 @@ public class TS_006_ValidateCorporateWellness extends BaseClass{
 	}
 
 	@When("user enter the contact number as {string}")
-	public void enter_contact_number_as(String number) {
+	public void enter_contactNumberAs(String number) {
 		getLogger().info("**************user enter the contact number**************");
 	    practo.phone_no(number);
 	}

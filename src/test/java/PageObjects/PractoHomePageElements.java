@@ -22,6 +22,7 @@ public class PractoHomePageElements extends BasePage{
 	{
 		super(driver);
 	}
+	
 	//Declaration part of JavascriptExecutor
 	JavascriptExecutor jse = (JavascriptExecutor) driver;
 	//Declaration part of Explicit wait
@@ -64,29 +65,28 @@ public class PractoHomePageElements extends BasePage{
 	@FindBy(xpath="//div[@class='ReactModalPortal'][1]/div/div/div/div[1]")
 	WebElement txt_confirm;
 	
-	//Actions for Practo page logo
+	//Action for Practo page logo
 	public boolean isLogoPresent()
 	{
 		BasePage.highlightElement(jse, logo_icon);
 		return logo_icon.isDisplayed();
 	}
 	
-	//Actions for login button option
+	//Action for login button option
 	public boolean isLoginButtonPresent()
 	{
 		BasePage.highlightElement(jse, login_button);//highlight the element
 		return login_button.isDisplayed();
 	}
-	//Actions for download option
+	//Action for download option
 	public boolean isDownloadPresent()
 	{
-		
 		jse.executeScript("arguments[0].scrollIntoView(true);",download_option);//scroll the page till the web element
-		WebElement dwnld=wait.until(ExpectedConditions.visibilityOf(download_option));//usage part of the explicit wait
-		BasePage.highlightElement(jse, dwnld);//highlight the element
-		return dwnld.isDisplayed();
+		wait.until(ExpectedConditions.visibilityOf(download_option));//usage part of the explicit wait
+		BasePage.highlightElement(jse, download_option);//highlight the element
+		return download_option.isDisplayed();
 	}
-	//Actions for corporate wellness form page
+	//Action for corporate wellness form page
 	public void corporateWellnessAction()
 	{
 		wellness_plan.click();
@@ -113,38 +113,38 @@ public class PractoHomePageElements extends BasePage{
 		wait.until(ExpectedConditions.visibilityOf(contact_no));
 		contact_no.sendKeys(pno);
 	}
-	//this method for mail id
+	//Action for mail id
 	public void email_id(String email)
 	{
 		wait.until(ExpectedConditions.visibilityOf(official_emailId));
 		official_emailId.sendKeys(email);
 	}
-	//this method for organization size
+	//Action for organization size
 	public void orga_size(String org_size)
 	{
 		wait.until(ExpectedConditions.visibilityOf(organization_size));
 		Select orgs_size=new Select(organization_size);
 		orgs_size.selectByVisibleText(org_size);
 	}
-	//this method for select interest
+	//Action for select interest
 	public void user_Interest(String interest)
 	{
 		wait.until(ExpectedConditions.visibilityOf(InterestedIn));
 		Select sl_interest=new Select(InterestedIn);
 		sl_interest.selectByVisibleText(interest);
 	}
-	//this method for submit the form
+	//Action for submit the form
 	public WebElement submit_element()
 	{
 		wait.until(ExpectedConditions.visibilityOf(submit_button));
 		return submit_button;
 	}
-	//perform the action
+	//Action for submit form
 	public void submitAction()
 	{
 		submit_button.click();
 	}
-	//this method for confirm message element
+	//Action for confirm message
 	public String confirmMessage()
 	{
 		wait.until(ExpectedConditions.visibilityOf(txt_confirm));

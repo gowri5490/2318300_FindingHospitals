@@ -21,6 +21,7 @@ public class SearchPageElements extends BasePage{
 	
 	//Declaration part of JavascriptExecutor
 	JavascriptExecutor js = (JavascriptExecutor) driver;
+	
 	//Declaration part of Explicit wait
 	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));
 	
@@ -64,20 +65,20 @@ public class SearchPageElements extends BasePage{
 		Thread.sleep(2000);
 		city_element.click();
 	}
-	//this method for enter option
+	//Action for enter option
 	public void searchActionOption(String option) throws InterruptedException
 	{
 		txt_searchUserOptions.sendKeys(option);
 		click_hospital.click();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 	}
-	//this method for get the title of hospitals
+	//Action for get the title of hospitals
 	public String cityHospitalsTitle()
 	{
 		return city_title.getText();
 	}
 	
-	//this method for get the all hospitals time details
+	//Action for get the all hospitals time details
 	public List<Integer> timeDetails() throws InterruptedException
 	{
 		js.executeScript("window.scrollBy(0,1600)", "");//scroll the page till this pixel value
@@ -97,13 +98,13 @@ public class SearchPageElements extends BasePage{
 		}
 		return hsptls_index;
 	}
-	//this method for get hospitals name
+	//Action for get hospitals name
 	public List<WebElement> hospitalName()
 	{
 		wait.until(ExpectedConditions.visibilityOfAllElements(hsptl_ttle));
 		return hsptl_ttle;
 	}
-	//this method for get the rating details 
+	//Action for get the rating details 
 	public List<Integer> ratingDetails()
 	{
 		
@@ -123,7 +124,7 @@ public class SearchPageElements extends BasePage{
 		return rating_index;
 	}
 	
-	//this method for get top cities name
+	//Action for get top cities name
 	public List<WebElement> topCities()
 	{
 		wait.until(ExpectedConditions.visibilityOfAllElements(top_cities));

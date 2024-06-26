@@ -16,7 +16,8 @@ public class VideoConsultElements extends BasePage{
 	public VideoConsultElements(WebDriver driver)
 	{
 		super(driver);
-	}	
+	}
+	
 	//Declaration part of Explicit wait
 	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));
 		
@@ -46,38 +47,34 @@ public class VideoConsultElements extends BasePage{
 		videoCon_element.click();
 	}
 	
-	//this method for get consult button status
+	//This method to get consult button status
 	public boolean isConsultEnabled()
 	{
 		wait.until(ExpectedConditions.visibilityOf(consult_button));
 		return consult_button.isEnabled();
 	}
 	
-	//this method for get Specialities WebElements 
+	//This method for get Specialities WebElements 
 	public List<WebElement> specialities()
 	{
-		
 		return specialities_element;
 	}
 	
-	//this method for get CommonHealth concern WebElements
+	//This method for get CommonHealth concern WebElements
 	public List<WebElement> commonHealthConcern()
 	{
-		
 		return commonHealthConcerns;
 	}
 	
-	//this method for get concern price WebElements
+	//This method for get concern price WebElements
 	public List<WebElement> concernPrice()
 	{
-		
 		return healthConcernPrice;
 	}
 	
-	//this method for get consult offers WebElements
+	//This method for get consult offers WebElements
 	public List<WebElement> consultOffers()
 	{
-	
 		return offers;
 	}
 }

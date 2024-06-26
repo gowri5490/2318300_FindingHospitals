@@ -21,13 +21,14 @@ public class BaseClass {
      static Properties p;
      static Logger logger;
   	     
-     public static WebDriver initilizeBrowser() throws IOException{            //initializing browser and os
-    	//This is used for run local or remote mode
+     public static WebDriver initilizeBrowser() throws IOException{       //initializing browser and os
+    	 
+    	//This is used for run remote mode
 		if(getProperties().getProperty("execution_env").equalsIgnoreCase("remote")){
 			
-			DesiredCapabilities capabilities = new DesiredCapabilities();
+			DesiredCapabilities capabilities = new DesiredCapabilities(); //set the WebDriver
 			
-			//for run which OS user want
+			//This is used for run which OS user want
 			if (getProperties().getProperty("os").equalsIgnoreCase("windows")) {
 			    capabilities.setPlatform(Platform.WIN11);
 			} else if (getProperties().getProperty("os").equalsIgnoreCase("mac")) {
@@ -35,7 +36,8 @@ public class BaseClass {
 			} else {
 			    System.out.println("No matching OS..");
 			      }
-			//browser for remote mode
+			
+			//browser setup for remote mode
 			switch (getProperties().getProperty("browser").toLowerCase()) {
 			    case "chrome":
 			        capabilities.setBrowserName("chrome");
@@ -50,6 +52,8 @@ public class BaseClass {
 	        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
 			
 		}
+		
+		//browser setup for local mode
 		else if(getProperties().getProperty("execution_env").equalsIgnoreCase("local"))
 			{
 				switch(getProperties().getProperty("browser").toLowerCase()) {
@@ -63,22 +67,20 @@ public class BaseClass {
 				        System.out.println("No matching browser");
 				        driver=null;
 				}
-			}
-//			 driver.manage().deleteAllCookies(); 
-			 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-//			 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(5));
+			} 
+			 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10)); //implicit wait command
 
 			 return driver;
 		 
 	     }
 
-     //this method for return the web driver
+     //This method for return the web driver
      public static WebDriver getDriver(){
     	 
 		return driver;
 	}
 
-     //for read the properties file
+     //This method for read the properties file
      public static Properties getProperties() throws IOException{	
     	 
 	    FileReader file=new FileReader(System.getProperty("user.dir")+"\\src\\test\\resources\\URL\\URL.properties");
@@ -88,10 +90,10 @@ public class BaseClass {
 		return p;
      }
 
-     //for store all actions in logger
+     //This method for store all actions in logger
      public static Logger getLogger() {
     	 
-		logger=LogManager.getLogger(); //Log4j
+		logger=LogManager.getLogger(); //load Log4j
 		return logger;
      }
 

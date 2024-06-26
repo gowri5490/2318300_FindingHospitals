@@ -29,7 +29,6 @@ public class Hooks {
    	driver.get(p.getProperty("Test_URL"));
    	driver.manage().window().maximize();
    	BaseClass.getLogger().info("Website is opened");
-   
    			
 	}
 	
@@ -39,15 +38,12 @@ public class Hooks {
 	       	TakesScreenshot ts=(TakesScreenshot) driver;
 	       	byte[] screenshot=ts.getScreenshotAs(OutputType.BYTES);
 	       	scenario.attach(screenshot, "image/png",scenario.getName());
-	       	BaseClass.getLogger().info("Taking screenshot"); 	
-	       	         
+	       	BaseClass.getLogger().info("Taking screenshot"); 	 	         
 	   }
 		
 	@After 
 	   public void tearDown(Scenario scenario){
-		   		
 	      driver.quit();
-	  	
 	   }
 	   
    

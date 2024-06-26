@@ -47,14 +47,14 @@ public class SurgeriesElements extends BasePage{
 		surgeries_element.click();
 	}
 	
-	//this method to get PractoCare number
+	//This method to get PractoCare number
 	public String practoCare()
 	{
 		wait.until(ExpectedConditions.visibilityOf(care_no));
 		return care_no.getText();
 	}
 	
-	//use this method to locate the popular surgeries WebElements
+	//This method to locate the popular surgeries WebElements
 	public List<WebElement> popularSurgeries()
 	{
 		js.executeScript("window.scrollBy(0,600);","");
@@ -62,14 +62,14 @@ public class SurgeriesElements extends BasePage{
 		return surgeries_list;
 	}
 	
-	//this method for get the departments WebElements
+	//This method for get the departments WebElements
 	public List<WebElement> ourDepartments()
 	{
 		wait.until(ExpectedConditions.visibilityOfAllElements(departments));
 		return departments;
 	}
 	
-	//this method for get the PractoCare benefits WebElements 
+	//This method for get the PractoCare benefits WebElements 
 	public List<WebElement> practoCareBenifits()
 	{
 		wait.until(ExpectedConditions.visibilityOfAllElements(benifits_element));

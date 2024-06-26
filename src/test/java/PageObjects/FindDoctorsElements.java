@@ -21,6 +21,7 @@ public class FindDoctorsElements extends BasePage{
 	
 	//Declaration part of Explicit wait
 	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));
+	
 	//Declaration part of JavascriptExecutor
 	JavascriptExecutor js=(JavascriptExecutor)driver;
 	
@@ -55,8 +56,8 @@ public class FindDoctorsElements extends BasePage{
 		wait.until(ExpectedConditions.visibilityOf(search_speciality));
 		search_speciality.sendKeys(spec);//search specialist doctor in Dentist
 		Thread.sleep(3000);
-		WebElement r_srch=wait.until(ExpectedConditions.visibilityOf(recent_search));
-		r_srch.click();
+		wait.until(ExpectedConditions.visibilityOf(recent_search));
+		recent_search.click();
 		
 		js.executeScript("window.scrollBy(0,1800)",""); //scroll the page till pixel value
 	}
